@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Saksham</h1>
